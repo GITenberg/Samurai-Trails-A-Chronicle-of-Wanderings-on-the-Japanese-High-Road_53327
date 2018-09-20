@@ -1,0 +1,25 @@
+_repo: Samurai-Trails-A-Chronicle-of-Wanderings-on-the-Japanese-High-Road_53327
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Kirtland, Lucian Swift
+    birthdate: 1881
+    deathdate: 1965
+    gutenberg_agent_id: '47323'
+    url: http://www.gutenberg.org/2009/agents/47323
+description: ''
+gutenberg_issued: '2016-10-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53327'
+  lccn: '18022889'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Japan -- Description and travel'
+- !lcc 'DS'
+- GITenberg
+title: 'Samurai Trails: A Chronicle of Wanderings on the Japanese High Road'
+url: http://www.gutenberg.org/ebooks/53327
